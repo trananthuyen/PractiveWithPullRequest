@@ -33,9 +33,13 @@ Practive with pull request
 
 next we will commit the second commit
 
+<<<<<<< HEAD
 next other commit
 
 
+
 fix something after pull request
+<<<<<<< HEAD
 
 say hello after merge.
+
