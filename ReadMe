@@ -33,4 +33,11 @@ Practive with pull request
 
 next we will commit the second commit
 
+<<<<<<< HEAD
 next other commit
+=======
+next other commit
+
+
+fix something after pull request
+>>>>>>> 6f0f14532fbde035d04db98289aed2c924ece55b
